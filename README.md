@@ -9,3 +9,7 @@
 ## Libraries
 
 - [org-social-lib-rs](https://github.com/AdsanTheGreat/org-social-lib-rs): A rust library for parsing and operating on org social social network.
+
+## Tools
+
+- [Org Social Preview Generator](https://github.com/tanrax/org-social-preview): Tool for generating HTML previews.
