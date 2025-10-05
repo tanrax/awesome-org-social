@@ -16,4 +16,6 @@
 
 ## Tools
 
-- [Org Social Preview Generator](https://github.com/tanrax/org-social-preview): Tool for generating HTML previews.
+- [Static preview](https://github.com/tanrax/org-social-static-preview): Tool for generating static HTML previews of posts.
+- [Live preview](https://github.com/tanrax/org-social-live-preview): Tool for dynamically generating HTML previews of posts.
+
