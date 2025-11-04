@@ -18,3 +18,8 @@
 
 - [Live preview](https://github.com/tanrax/org-social-live-preview): Tool for dynamically generating HTML previews of posts.
 - [Static preview](https://github.com/tanrax/org-social-static-preview): Tool for generating static HTML previews of posts.
+
+## Bridges
+
+- [Org Social RSS bridge]([https://github.com/tanrax/org-social-static-preview](https://github.com/tanrax/org-social-rss-bridge)): A simple bridge that converts RSS/Atom feeds into Org Social format.
+
