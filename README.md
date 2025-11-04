@@ -21,5 +21,5 @@
 
 ## Bridges
 
-- [Org Social RSS bridge]([https://github.com/tanrax/org-social-static-preview](https://github.com/tanrax/org-social-rss-bridge)): A simple bridge that converts RSS/Atom feeds into Org Social format.
+- [Org Social RSS bridge](https://github.com/tanrax/org-social-rss-bridge): A simple bridge that converts RSS/Atom feeds into Org Social format.
 
